@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-bf19c9d1087f?auto=format&fit=crop&q=80&w=800" width="520" alt="Dark terminal aesthetic">
+  <img src="https://tse1.mm.bing.net/th/id/OIP.zWbcrFra7JJiV9vBvNsirAHaDn?pid=Api&P=0&h=180" width="520" alt="">
 </p>
 
 <h1 align="center">IP Logger · Silencieux</h1>
