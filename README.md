@@ -2,7 +2,7 @@
   <img src="https://tse1.mm.bing.net/th/id/OIP.zWbcrFra7JJiV9vBvNsirAHaDn?pid=Api&P=0&h=180" width="520" alt="">
 </p>
 
-<h1 align="center">IP Logger · Silencieux</h1>
+<h1 align="center">IP Grabber - (but éducatif)</h1>
 <h3 align="center">Récupération d'IP publique → Envoi Discord webhook</h3>
 
 <p align="center">
@@ -12,6 +12,6 @@
 </p>
 
 ```text
-───────────────────────────────────────────────────────────────
-  IP publique + User-Agent + timestamp → ton webhook Discord
-───────────────────────────────────────────────────────────────
+────────────
+IP PUBLIQUE
+───────────
